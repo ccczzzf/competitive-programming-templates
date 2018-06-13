@@ -4,12 +4,18 @@
 #include <stack>
 #include <queue>
 using namespace std;
+class Solution{
+private:
 
+public:
+    void solve{
+        int N;
+        cin >> N;
+        
+    }
+};
 
 int main() {
-    int N;
-    cin >> N;
-    // narrow down the candidate size to 1
-
-    return 0;
+    Solution a;
+    a.solve();
 }
