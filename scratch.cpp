@@ -8,10 +8,9 @@ class Solution{
 private:
 
 public:
-    void solve{
+    void solve(){
         int N;
         cin >> N;
-        
     }
 };
 
